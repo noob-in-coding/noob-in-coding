@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noob-in-coding
-- 👀 I’m interested in Python Django My Sql
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking for a job as a Backend developer
+- 👀 I’m interested in Python,Django,My Sql,Html,CSS,Javascript
+- 🌱 I’m currently learning Backend development with Django
+- 💞️ I’m looking for a job as a Backend developer and here i have uploaded some of my projects 
 - 📫 You can reach me on my mail kanteshkarwade@gmail.com
 
 <!---
